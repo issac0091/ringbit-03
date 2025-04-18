@@ -1,5 +1,6 @@
 {
     "name": "Ring:bit 03 温控风扇",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
